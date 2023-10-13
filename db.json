@@ -1,0 +1,74 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "new",
+      "url": "https://tse1.mm.bing.net/th?id=OIP.wdfOFAXrGkctorUw4WTopgHaE8&pid=Api&P=0&h=180",
+      "embedlink": "https://www.youtube.com/embed/z2E-hFyQYa0"
+    },
+    {
+      "id": "4",
+      "caption": "4 video",
+      "url": "https://tse3.mm.bing.net/th?id=OIP.C8dnqZ-PRTSUZdLXGFu4gwHaEK&pid=Api&P=0&h=180",
+      "embedlink": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "13",
+      "caption": "Toast",
+      "url": "https://tse2.mm.bing.net/th?id=OIP.1O-O8s7_ynJK2M2llWxN2AHaEK&pid=Api&P=0&h=180",
+      "embedlink": "https://www.youtube.com/embed/UGKhYwy37P4"
+    },
+    {
+      "id": "32",
+      "caption": "kerala",
+      "url": "https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=180",
+      "embedlink": "https://www.youtube.com/embed/4m15jFmP9N0"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "sports",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "it new",
+          "url": "https://tse3.mm.bing.net/th?id=OIP.vJppsIX1OD75IP7gtRpDoQHaFF&pid=Api&P=0&h=180",
+          "embedlink": "https://www.youtube.com/embed/de_xfGFG6uk"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "movies",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "new",
+          "url": "https://tse1.mm.bing.net/th?id=OIP.wdfOFAXrGkctorUw4WTopgHaE8&pid=Api&P=0&h=180",
+          "embedlink": "https://www.youtube.com/embed/z2E-hFyQYa0"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "music",
+      "allVideos": [
+        {
+          "id": "13",
+          "caption": "Toast",
+          "url": "https://tse2.mm.bing.net/th?id=OIP.1O-O8s7_ynJK2M2llWxN2AHaEK&pid=Api&P=0&h=180",
+          "embedlink": "https://www.youtube.com/embed/UGKhYwy37P4"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "4 video",
+      "embedlink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "10/12/2023, 12:01:27 PM",
+      "id": 10
+    }
+  ]
+}
